@@ -34,7 +34,7 @@
 <b>Top 3 anime series:</b> Fate, Black Clover, Haikyuu (─‿─)
 </li>
 <li>
-<b>Top 5 Japanese music artists:</b> Eve, Kenshi Yonezu, Zutomayo, Ado, YOASOBI (as a band) 
+<b>Top 5 Japanese music artists:</b> Eve, Kenshi Yonezu, Zutomayo, Ado, YOASOBI (as a duo) 
 </li>
 <li>
 <b>Favourite subjects:</b> Maths, coding, ...
