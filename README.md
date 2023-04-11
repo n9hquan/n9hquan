@@ -2,7 +2,7 @@
 <h1 align="center"> Welcome to my profile °˖✧◝(⁰▿⁰)◜✧˖° </h1>
 <br>
 <div align="center">
-<img src="https://media.tenor.com/iQ-tmMIKsSkAAAAC/yo-dayo-nakiri.gif">
+<img src="https://64.media.tumblr.com/3a0b9c063235ba08654542c033b5f167/tumblr_oq3t31OrzH1rgyzl8o1_540.gif">
 </div>
 <h1 align="center">Hi, I'm Chinh Quan</a>!</h1>
 <p align="center">
